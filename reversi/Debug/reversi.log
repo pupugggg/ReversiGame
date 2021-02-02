@@ -1,0 +1,9 @@
+﻿  GameParameter.cpp
+  InputSystem.cpp
+  main.cpp
+  Manager.cpp
+e:\reversi\reversi\manager.cpp(3): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+e:\reversi\reversi\manager.cpp(27): error C2065: 'x': 未宣告的識別項
+e:\reversi\reversi\manager.cpp(28): error C2065: 'y': 未宣告的識別項
+e:\reversi\reversi\manager.cpp(44): warning C4018: '>=': signed/unsigned 不相符
+  正在產生程式碼...
